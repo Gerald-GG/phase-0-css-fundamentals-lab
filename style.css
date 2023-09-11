@@ -3,3 +3,37 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+img {
+  width: 900px;
+  margin: auto;
+  display: block;
+}
+figcaption {
+  text-align: center;
+}
+
+#featured-property {
+  width: 900px;
+  margin: auto;
+}
+
+#featured-property{
+  width: 900px;
+  margin: auto;
+  text-align: center;
+}
+#details {
+  justify-content: space-between;
+  display: flex;
+  word-spacing: 10px;
+  background-color: red;
+}
